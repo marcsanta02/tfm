@@ -1,0 +1,12 @@
+{
+  "max_depth": 6,
+  "learning_rate": 0.20200498396764444,
+  "subsample": 0.7787342932466933,
+  "colsample_bytree": 0.6474701533967733,
+  "min_child_weight": 8,
+  "gamma": 1.7908490419798526,
+  "reg_alpha": 0.11173791855481849,
+  "reg_lambda": 0.5934895175279966,
+  "early_stopping_rounds": 23,
+  "min_delta": 0.007516872602107871
+}
