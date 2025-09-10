@@ -1,1 +1,0 @@
-This models utilite a dataset with different window sizes, to reproduce the results you would have to execute the hive query with different window sizes, e.g. 15-5 or 65-7.
